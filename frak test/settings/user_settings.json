@@ -1,0 +1,11 @@
+{
+    "game_width": 1600,
+    "game_height": 900,
+    "png_export_width": 3840,
+    "png_export_height": 2160,
+    "gif_export_width": 640,
+    "gif_export_height": 360,
+    "music_volume": 0.0,
+    "ui_volume": 0.0,
+    "show_performance_info": false
+}

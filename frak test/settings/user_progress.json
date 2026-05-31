@@ -1,0 +1,12 @@
+{
+    "tutorial_completed": true,
+    "achievements": {
+        "tutorial_complete": true,
+        "first_zoom": true,
+        "palette_swapper": true,
+        "fractal_switcher": true,
+        "first_export": true,
+        "deep_zoom": true,
+        "benchmark_runner": true
+    }
+}
